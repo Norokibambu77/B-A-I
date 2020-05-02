@@ -13,3 +13,8 @@ Kata Kunci
  dari beberapa populasi yang berbeda ketika rata-rata setiap populasi mungkin berbeda,
  tetapi orang dapat berasumsi bahwa varians dari setiap populasi adalah sama. 
  Estimasi numerik yang dihasilkan dari penggunaan metode ini juga disebut varians gabungan
+
+--Standart Error
+-Kesalahan standar suatu statistik adalah standar deviasi 
+dari distribusi samplingnya atau perkiraan dari standar deviasi tersebut.
+Jika parameter atau statistik adalah rata-rata, itu disebut kesalahan standar rata-rata
