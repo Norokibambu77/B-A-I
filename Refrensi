@@ -6,3 +6,10 @@ Kata Kunci
  nilai-nilai cenderung dekat dengan rata-rata set, sementara deviasi 
  standar yang tinggi menunjukkan bahwa nilai-nilai tersebar di rentang 
  yang lebih luas
+ 
+ 
+ --Pooled Variance
+ -Dalam statistik, varians gabungan adalah metode untuk memperkirakan varians
+ dari beberapa populasi yang berbeda ketika rata-rata setiap populasi mungkin berbeda,
+ tetapi orang dapat berasumsi bahwa varians dari setiap populasi adalah sama. 
+ Estimasi numerik yang dihasilkan dari penggunaan metode ini juga disebut varians gabungan
