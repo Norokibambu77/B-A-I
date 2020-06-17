@@ -1,0 +1,39 @@
+Fungsi Dan Beberapa Tugas Yang bisa dipahami sendiri dengan beberapa comment yang telah disertakan dengan bahasa Indonesia 
+Dan Beberapa Fungsi Yang Ada DI MySQL memiliki Sub Fungsi Menghasilkan kondisi 
+
+Fungsi yang dapat dipelajari
+1 AND , OR , NOT
+
+2 SELECT JOIN
+  - INNER JOIN
+  - LEFT JOIN
+  - RIGHT JOIN
+  - UNION JOIN
+
+3 Kompirasi Operator (+ , - , * , % , /)
+
+4 HAVING 
+
+5 IN , NOT IN
+
+6 LIKE , NOT LIKE
+
+7 Fungsi Stored Procedures 
+  - In parameters
+  - Out parameters
+
+8 ORDER BY
+
+9 Operator Logical 
+  < , > , == , != , <> , => , <= 
+
+10 Agregasi / Aggregate
+  - SUM
+  - COUNT
+  - ROUND
+  - MAX
+  - MIN
+
+11 AS atau Inisialisasi / Alias
+
+12 WHERE
